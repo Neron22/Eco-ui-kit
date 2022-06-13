@@ -1,4 +1,8 @@
 .container {
   background-color: red;
 }
+
+.test {
+  text-shadow: none;
+}
 /*# sourceMappingURL=components.css.map */
